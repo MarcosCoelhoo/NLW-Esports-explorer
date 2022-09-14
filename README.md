@@ -1,5 +1,5 @@
 # NLW-Esports-explorer
 
-<p> Projeto feito na Next Level Week da Rocketseat </p>
+<p> Projeto feito na Next Level Week da Rocketseat | Deploy: [Minha pika] (google.com) </p>
 
-![](./imgs/bg.jpg)
+![](./imgs/print.png)
